@@ -1,0 +1,22 @@
+body {
+    color: navy;
+}
+
+/* Add an image to the jumbotron*/
+.jumbotron {
+    background-image: url("../images/navel.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+/* Give border to graphs*/
+.borderexample {
+ border-style:solid;
+ border-color: navy;
+}
+
+/*Give a shadow to the text in the jumbotron*/
+.simpleshadow {
+    text-shadow: 4px 4px 4px black;
+    text-decoration-line: black;
+}
